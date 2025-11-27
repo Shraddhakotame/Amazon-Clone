@@ -1,6 +1,9 @@
 📦 Amazon Clone – HTML & CSS
 
-A simple and responsive Amazon Homepage Clone built using pure HTML & CSS.
+Small Project, Big Learnings!✨
+
+I recently built a responsive Amazon clone using HTML & CSS. Working on this project gave me a hands-on, real-world experience of how websites are built and structured.
+This small project is a valuable milestone in my web development journey, and I’m excited to keep learning, growing, and creating even more!
 This project helped me understand real-world website layout structures, flexbox, responsiveness, and component-based UI building.
 
 🚀 Features
